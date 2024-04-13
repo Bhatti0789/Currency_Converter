@@ -1,6 +1,6 @@
 {
-  "name": "abdullah_currency_convert",
-  "version": "2.0.0",
+  "name": "abdullah_currency_conversion",
+  "version": "1.0.0",
   "description": "Currency Conversion CLI Program",
   "main": "index.js",
   "type": "module",
